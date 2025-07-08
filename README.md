@@ -1,2 +1,2 @@
 # Scientific-Study-of-Religion-Through-Schizoid-Experience
-This repository hosts the scientific manuscript "Consciousness, Dream, and Evolution: A Scientific Perspective on Religion through the Schizoid Process". The paper explores the origins of religion from a neuropsychological and symbolic cognition perspective, grounded in experiential analysis of schizoid phases. Zenodo DOI: 10.5281/zenodo.15650880
+This repository hosts the scientific manuscript "Consciousness, Dream, and Evolution: A Scientific Perspective on Religion through the Schizoid Process". The paper explores the origins of religion from a neuropsychological and symbolic cognition perspective, grounded in experiential analysis of schizoid phases. DOI: 10.5281/zenodo.15650880
