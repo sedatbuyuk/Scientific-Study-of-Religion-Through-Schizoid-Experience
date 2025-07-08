@@ -18,7 +18,7 @@ This paper proposes a novel hypothesis on the origin of religious experiences, a
 
 If you use this work in your research, please cite it as follows:
 
-> Büyük, S. (2025). *Consciousness, Dream, and Evolution: A Scientific Perspective on Religion through the Schizoid Process*. Zenodo. DOI:[https://doi.org/10.5281/zenodo.15650880](https://doi.org/10.5281/zenodo.15650880)
+> Büyük, S. (2025). *Consciousness, Dream, and Evolution: A Scientific Perspective on Religion through the Schizoid Process*. Zenodo. DOI: [https://doi.org/10.5281/zenodo.15650880](https://doi.org/10.5281/zenodo.15650880)
 
 
 ## License
